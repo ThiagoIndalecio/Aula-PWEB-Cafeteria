@@ -142,3 +142,9 @@ hr{
     border-style: solid;
 
 }
+.body-page-forms{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
